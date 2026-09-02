@@ -41,10 +41,8 @@ Currently, I'm focused on expanding my knowledge in **GraphQL** and **Docker** w
 
 ## 📊 GitHub Stats  
 
-| GitHub Stats | Most Used Languages |
-| :---: | :---: |
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=default) |
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anninda24&show_icons=true&locale=en&layout=compact" alt="anninda24" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anninda24&show_icons=true&locale=en" alt="anninda24" /></p>
 
-![Profile views](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anninda24&" alt="anninda24" /></p>
