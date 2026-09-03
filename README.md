@@ -6,11 +6,11 @@
 ## 👨💻 About Me  
 I'm a CSE student and aspiring software developer passionate about building things, solving problems, and continuously improving my technical skills.
 
-💻 Web Development — Currently building my foundation in HTML, CSS, JavaScript, and Tailwind CSS, while working on responsive and interactive web projects.
+💻 Web Development - Currently building my foundation in HTML, CSS, JavaScript, and Tailwind CSS, while working on responsive and interactive web projects.
 
-⚙️ Software Development — Interested in understanding how software works under the hood and turning ideas into practical applications.
+⚙️ Software Development - Interested in understanding how software works under the hood and turning ideas into practical applications.
 
-🧠 Competitive Programming — Actively practicing C++ and Data Structures & Algorithms on competitive programming platforms, focusing on problem-solving, algorithmic thinking, and writing efficient solutions.
+🧠 Competitive Programming - Actively practicing C++ and Data Structures & Algorithms on competitive programming platforms, focusing on problem-solving, algorithmic thinking, and writing efficient solutions.
 
 ---
 
