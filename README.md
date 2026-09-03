@@ -1,5 +1,5 @@
 # Hi 👋, I'm Anninda Raj Das
-### 🔭 I build things with JavaScript, React, and Node.js
+### CSE Student • Web Developer • C++ & DSA • Competitive Programmer
 
 ---
 
