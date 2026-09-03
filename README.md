@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="Anninda Raj Das - Developer Banner" width="100%">
+  <img src="banner.png" alt="Anninda Raj Das - Developer Banner">
 </p>
 
 # Hi 👋, I'm Anninda Raj Das
