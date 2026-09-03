@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/banner.png" alt="Anninda Raj Das - Developer Banner" width="100%">
+</p>
+
 # Hi 👋, I'm Anninda Raj Das
 ### CSE Student • Web Developer • C++ & DSA • Competitive Programmer
 
