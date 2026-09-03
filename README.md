@@ -4,8 +4,13 @@
 ---
 
 ## 👨💻 About Me  
-I'm a passionate full-stack developer who enjoys building modern, high-performance web applications. I love working with **JavaScript**, **React**, and **Node.js**, and I'm always exploring new tools to improve my workflow.  
-Currently, I'm focused on expanding my knowledge in **GraphQL** and **Docker** while working on exciting real-world projects. Feel free to reach out if you want to talk about **web development**, open-source, or cool tech ideas!
+I'm a CSE student and aspiring software developer passionate about building things, solving problems, and continuously improving my technical skills.
+
+💻 Web Development — Currently building my foundation in HTML, CSS, JavaScript, and Tailwind CSS, while working on responsive and interactive web projects.
+
+⚙️ Software Development — Interested in understanding how software works under the hood and turning ideas into practical applications.
+
+🧠 Competitive Programming — Actively practicing C++ and Data Structures & Algorithms on competitive programming platforms, focusing on problem-solving, algorithmic thinking, and writing efficient solutions.
 
 ---
 
